@@ -3,5 +3,5 @@
 
 ### DESCRIPCION
 
-Es una empresa especializada en servicios de telecomunicaciones, con más de 13 años de experiencia en el sector, brindando soluciones tecnológicas innovadoras en GPON, PEXT, LTE, WiLL, tecnología satelital y outsourcing.<br>
-Necesitan un sitio web para para expandir su mercado a nivel nacional que muestre sus servcios, experiencias, equipos de trabajo, certificaciones, cotizaciones y mejore el posicionamiento de la marca mercado de telecomunicaciones.
+Es una empresa especializada en servicios de telecomunicaciones, con más de 13 años de experiencia en el sector, brindando soluciones tecnológicas innovadoras en GPON, PEXT, LTE, WILL, tecnología satelital y outsourcing.<br>
+Necesitan un sitio web para expandir su mercado a nivel nacional, que muestre sus servicios, experiencias, equipos de trabajo, certificaciones, cotizaciones y mejore el posicionamiento de la marca en el mercado de las telecomunicaciones.
