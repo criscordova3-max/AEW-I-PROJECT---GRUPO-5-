@@ -55,10 +55,6 @@ Objetivos específicos:
 
 * Servir como base para futuras estrategias de marketing digital y expansión comercial. 
 
- 
-
-Link Github: https://github.com/criscordova3-max/AEW-I-PROJECT---GRUPO-5-/blob/main/README.md 
-
 # Indice
 
 ## Inicio  
