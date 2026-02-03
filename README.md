@@ -59,82 +59,58 @@ Objetivos específicos:
 
 Link Github: https://github.com/criscordova3-max/AEW-I-PROJECT---GRUPO-5-/blob/main/README.md 
 
-# h1 Indice
+# Indice
 
-Inicio  
+## Inicio  
 
-Presentación institucional 
+* Presentación institucional
+* Propuesta de valor
+* Servicios destacados
+* Llamado a la acción (cotizaciones / contacto) 
 
-Propuesta de valor 
+# Nosotros 
 
-Servicios destacados 
+* Quiénes Somos
+* Misión, Visión y Valores
+* Trayectoria y Experiencia
+* Certificaciones y Alianzas Estratégicas 
 
-Llamado a la acción (cotizaciones / contacto) 
+# Servicios 
 
-Nosotros 
+* Enlaces de Radio y Microondas
+* Planta Externa (PEXT)
+* Redes LTE
+* Soluciones Satelitales
+* GPON / FTTH
+* Servicios Gestionados y Outsourcing 
 
-Quiénes Somos 
+# Cobertura 
 
-Misión, Visión y Valores 
+* Zonas de cobertura
+* Expansión nacional 
 
-Trayectoria y Experiencia 
+# Proyectos 
 
-Certificaciones y Alianzas Estratégicas 
+* Proyectos Ejecutados
+* Casos de Éxito 
 
-Servicios 
+# Nuestro Equipo 
 
-Enlaces de Radio y Microondas 
+* Equipo Técnico y Profesional
+* Certificaciones del Personal
+* Cultura y Valores Corporativos 
 
-Planta Externa (PEXT) 
+# Clientes 
 
-Redes LTE 
+* Empresas e Instituciones Atendidas
+* Testimonios 
 
-Soluciones Satelitales 
+# Soporte 
 
-GPON / FTTH 
+* Soporte Técnico
+* Canales de Atención 
 
-Servicios Gestionados y Outsourcing 
+# Contacto 
 
- 
-
-Cobertura 
-
-Zonas de cobertura 
-
-Expansión nacional 
-
-Proyectos 
-
-Proyectos Ejecutados 
-
-Casos de Éxito 
-
-Nuestro Equipo 
-
-Equipo Técnico y Profesional 
-
-Certificaciones del Personal 
-
-Cultura y Valores Corporativos 
-
-Clientes 
-
-Empresas e Instituciones Atendidas 
-
-Testimonios 
-
- 
-
-Soporte 
-
-Soporte Técnico 
-
-Canales de Atención 
-
- 
-
-Contacto 
-
-Solicitud de Cotización 
-
-Formulario de Contacto 
+* Solicitud de Cotización
+* Formulario de Contacto 
