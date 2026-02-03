@@ -13,7 +13,7 @@ Nuestro compromiso es ofrecer soluciones confiables, seguras y eficientes, convi
 
  
 
-NECESIDADES 
+## NECESIDADES 
 
 La empresa requiere un sitio web corporativo profesional que refleje su experiencia, solidez y liderazgo en el sector de las telecomunicaciones. Este sitio debe funcionar como una plataforma estratégica de comunicación y captación comercial, alineada con los estándares actuales del mercado digital. 
 
