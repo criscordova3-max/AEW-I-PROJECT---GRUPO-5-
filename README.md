@@ -21,47 +21,47 @@ Las principales necesidades identificadas son:
 
 * Contar con una presencia digital moderna y confiable que represente adecuadamente la marca. 
 
-Mostrar de manera clara y organizada el portafolio de servicios de telecomunicaciones. 
+* Mostrar de manera clara y organizada el portafolio de servicios de telecomunicaciones. 
 
-Comunicar la experiencia, trayectoria y capacidades técnicas de la empresa. 
+* Comunicar la experiencia, trayectoria y capacidades técnicas de la empresa. 
 
-Destacar al equipo profesional, certificaciones y conocimientos especializados. 
+* Destacar al equipo profesional, certificaciones y conocimientos especializados. 
 
-Facilitar la solicitud de cotizaciones y el contacto con potenciales clientes. 
+* Facilitar la solicitud de cotizaciones y el contacto con potenciales clientes. 
 
-Mejorar el posicionamiento de la marca en el mercado nacional. 
+* Mejorar el posicionamiento de la marca en el mercado nacional. 
 
-Optimizar la visibilidad en motores de búsqueda (SEO). 
+* Optimizar la visibilidad en motores de búsqueda (SEO). 
 
-Ofrecer una experiencia de navegación intuitiva, rápida y adaptable a dispositivos móviles. 
+* Ofrecer una experiencia de navegación intuitiva, rápida y adaptable a dispositivos móviles. 
 
-OBJETIVOS 
+## OBJETIVOS 
 
 El objetivo principal del proyecto es desarrollar un sitio web corporativo profesional que permita fortalecer la imagen institucional y apoyar el crecimiento comercial de la empresa a nivel nacional. 
 
 Objetivos específicos: 
 
-Presentar de forma clara la identidad, misión y visión de la empresa. 
+* Presentar de forma clara la identidad, misión y visión de la empresa. 
 
-Posicionar a la empresa como un referente en soluciones de telecomunicaciones. 
+* Posicionar a la empresa como un referente en soluciones de telecomunicaciones. 
 
-Incrementar la captación de clientes potenciales mediante formularios y canales digitales. 
+* Incrementar la captación de clientes potenciales mediante formularios y canales digitales. 
 
-Difundir los servicios, proyectos y casos de éxito de manera efectiva. 
+* Difundir los servicios, proyectos y casos de éxito de manera efectiva. 
 
-Generar confianza y credibilidad a través de información clara, certificaciones y experiencia demostrable. 
+* Generar confianza y credibilidad a través de información clara, certificaciones y experiencia demostrable. 
 
-Facilitar la comunicación directa con clientes actuales y potenciales. 
+* Facilitar la comunicación directa con clientes actuales y potenciales. 
 
-Servir como base para futuras estrategias de marketing digital y expansión comercial. 
+* Servir como base para futuras estrategias de marketing digital y expansión comercial. 
 
  
 
 Link Github: https://github.com/criscordova3-max/AEW-I-PROJECT---GRUPO-5-/blob/main/README.md 
 
-Indice 
+*Indice* 
 
-Inicio 
+Inicio  
 
 Presentación institucional 
 
