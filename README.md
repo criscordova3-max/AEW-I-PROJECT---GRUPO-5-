@@ -19,7 +19,7 @@ La empresa requiere un sitio web corporativo profesional que refleje su experien
 
 Las principales necesidades identificadas son: 
 
-Contar con una presencia digital moderna y confiable que represente adecuadamente la marca. 
+* Contar con una presencia digital moderna y confiable que represente adecuadamente la marca. 
 
 Mostrar de manera clara y organizada el portafolio de servicios de telecomunicaciones. 
 
